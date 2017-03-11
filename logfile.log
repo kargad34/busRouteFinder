@@ -1,0 +1,715 @@
+ERROR 2017-03-11 11:12:17:902 [busRouteFinder.Utility] [main] - I need Input File Location as the fist commandline argument
+ERROR 2017-03-11 11:12:17:902 [busRouteFinder.Utility] [main] - Goodbye ...
+ERROR 2017-03-11 11:13:16:786 [busRouteFinder.Utility] [main] - I need Input File Location as the second commandline argument after command as start|block
+ERROR 2017-03-11 11:13:16:786 [busRouteFinder.Utility] [main] - Goodbye ...
+INFO  2017-03-11 11:13:55:269 [busRouteFinder.RoutesWithStations] [main] - file has 10021 routes
+INFO  2017-03-11 11:13:55:434 [busRouteFinder.RoutesWithStations] [main] - file loaded with 10021 routes
+INFO  2017-03-11 11:13:55:434 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 241ms
+WARN  2017-03-11 11:14:41:377 [busRouteFinder.App] [main] - Unknown or stop command: star
+ERROR 2017-03-11 11:14:41:378 [busRouteFinder.Utility] [main] - Goodbye ...
+INFO  2017-03-11 11:14:51:648 [busRouteFinder.RoutesWithStations] [main] - file has 10021 routes
+INFO  2017-03-11 11:14:51:786 [busRouteFinder.RoutesWithStations] [main] - file loaded with 10021 routes
+INFO  2017-03-11 11:14:51:787 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 206ms
+INFO  2017-03-11 11:16:20:343 [busRouteFinder.RoutesWithStations] [qtp679397528-25] - route exist in 17 - > 24 false found in 17ms
+INFO  2017-03-11 11:16:57:237 [busRouteFinder.RoutesWithStations] [qtp679397528-25] - route exist in 55 - > 244 false found in 36ms
+INFO  2017-03-11 11:17:02:226 [busRouteFinder.RoutesWithStations] [qtp679397528-26] - route exist in 55 - > 245 true found in 6ms
+INFO  2017-03-11 11:17:38:959 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 11:17:38:978 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes
+INFO  2017-03-11 11:17:38:978 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 56ms
+INFO  2017-03-11 11:17:39:007 [busRouteFinder.RoutesWithStations] [main] - route exist in 11 - > 125 true found in 3ms
+INFO  2017-03-11 11:17:40:064 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 11:17:40:067 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes
+INFO  2017-03-11 11:17:40:067 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 4ms
+INFO  2017-03-11 11:17:40:068 [busRouteFinder.RoutesWithStations] [main] - route exist in 55 - > 244 false found in 1ms
+ERROR 2017-03-11 11:17:41:131 [busRouteFinder.RoutesWithStations] [main] - File has not expected lines of routes expected 7 exists 6
+INFO  2017-03-11 11:17:41:131 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 11:17:41:131 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 1ms
+ERROR 2017-03-11 12:26:00:932 [busRouteFinder.Utility] [main] - I need Input File Location as the fist commandline argument
+ERROR 2017-03-11 12:26:00:933 [busRouteFinder.Utility] [main] - Goodbye ...
+ERROR 2017-03-11 12:26:37:651 [busRouteFinder.Utility] [main] - I need Input File Location as the fist commandline argument
+ERROR 2017-03-11 12:26:37:652 [busRouteFinder.Utility] [main] - Goodbye ...
+INFO  2017-03-11 11:31:27:251 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 11:31:27:272 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes
+INFO  2017-03-11 11:31:27:272 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 56ms
+INFO  2017-03-11 11:31:27:325 [busRouteFinder.RoutesWithStations] [main] - route exist in 11 - > 125 true found in 15ms
+INFO  2017-03-11 11:31:28:359 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 11:31:28:361 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes
+INFO  2017-03-11 11:31:28:361 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 3ms
+INFO  2017-03-11 11:31:28:363 [busRouteFinder.RoutesWithStations] [main] - route exist in 55 - > 244 false found in 2ms
+ERROR 2017-03-11 11:31:29:387 [busRouteFinder.RoutesWithStations] [main] - File has not expected lines of routes expected 7 exists 6
+INFO  2017-03-11 11:31:29:387 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 11:31:29:387 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 1ms
+INFO  2017-03-11 12:32:02:519 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 12:32:02:568 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes
+INFO  2017-03-11 12:32:02:568 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 92ms
+INFO  2017-03-11 12:32:13:646 [busRouteFinder.RoutesWithStations] [qtp1479995838-23] - route exist in 55 - > 245 false found in 2ms
+INFO  2017-03-11 12:33:09:726 [busRouteFinder.RoutesWithStations] [qtp1479995838-22] - route exist in 26 - > 30 true found in 2ms
+WARN  2017-03-11 12:33:31:475 [busRouteFinder.App] [main] - Unknown or stop command: stop
+ERROR 2017-03-11 12:33:31:477 [busRouteFinder.Utility] [main] - Goodbye ...
+INFO  2017-03-11 12:42:42:111 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 12:42:42:132 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes
+INFO  2017-03-11 12:42:42:132 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 57ms
+INFO  2017-03-11 12:43:05:645 [busRouteFinder.RoutesWithStations] [qtp659888579-23] - route exist in 26 - > 30 true found in 2ms
+INFO  2017-03-11 12:43:10:375 [busRouteFinder.RoutesWithStations] [qtp659888579-22] - route exist in 26 - > 31 false found in 1ms
+WARN  2017-03-11 12:43:16:320 [busRouteFinder.App] [main] - Unknown or stop command: stop
+ERROR 2017-03-11 12:43:16:321 [busRouteFinder.Utility] [main] - Goodbye ...
+INFO  2017-03-11 11:47:42:685 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 11:47:42:706 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes
+INFO  2017-03-11 11:47:42:707 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 56ms
+INFO  2017-03-11 11:47:42:757 [busRouteFinder.RoutesWithStations] [main] - route exist in 11 - > 125 true found in 15ms
+INFO  2017-03-11 11:47:43:790 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 11:47:43:792 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes
+INFO  2017-03-11 11:47:43:793 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 3ms
+INFO  2017-03-11 11:47:43:793 [busRouteFinder.RoutesWithStations] [main] - route exist in 55 - > 244 false found in 0ms
+ERROR 2017-03-11 11:47:44:824 [busRouteFinder.RoutesWithStations] [main] - File has not expected lines of routes expected 7 exists 6
+INFO  2017-03-11 11:47:44:824 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 11:47:44:824 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 1ms
+INFO  2017-03-11 14:05:04:078 [busRouteFinder.RoutesWithStations] [main] - file has 10021 routes
+INFO  2017-03-11 14:05:04:218 [busRouteFinder.RoutesWithStations] [main] - file loaded with 10021 routes
+INFO  2017-03-11 14:05:04:219 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 204ms
+WARN  2017-03-11 14:05:04:262 [busRouteFinder.App] [main] - HTTP Already Stopped
+INFO  2017-03-11 14:05:16:281 [busRouteFinder.App] [Thread-1] - HTTP Service Started
+WARN  2017-03-11 14:05:56:815 [busRouteFinder.App] [main] - HTTP Already Started
+INFO  2017-03-11 14:06:15:270 [busRouteFinder.RoutesWithStations] [qtp581629727-25] - route exist in 26 - > 31 false found in 14ms
+WARN  2017-03-11 14:06:20:282 [busRouteFinder.App] [main] - Unknown or stop command: stop
+ERROR 2017-03-11 14:06:20:283 [busRouteFinder.Utility] [main] - Goodbye ...
+INFO  2017-03-11 14:06:26:241 [busRouteFinder.RoutesWithStations] [main] - file has 10021 routes
+INFO  2017-03-11 14:06:26:391 [busRouteFinder.RoutesWithStations] [main] - file loaded with 10021 routes
+INFO  2017-03-11 14:06:26:391 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 210ms
+WARN  2017-03-11 14:06:26:443 [busRouteFinder.App] [main] - HTTP Already Stopped
+INFO  2017-03-11 14:06:32:892 [busRouteFinder.App] [Thread-1] - HTTP Service Started
+WARN  2017-03-11 14:07:29:018 [busRouteFinder.App] [main] - HTPP Stopped
+INFO  2017-03-11 14:07:49:218 [busRouteFinder.App] [main] - HTTP Service Started
+INFO  2017-03-11 14:07:57:681 [busRouteFinder.RoutesWithStations] [qtp2005387143-34] - route exist in 26 - > 31 false found in 12ms
+WARN  2017-03-11 14:08:03:999 [busRouteFinder.App] [main] - Unknown or stop command: stop
+ERROR 2017-03-11 14:08:03:999 [busRouteFinder.Utility] [main] - Goodbye ...
+INFO  2017-03-11 14:56:24:954 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 14:56:24:976 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes, 1 thread/s will be used for each search req.
+INFO  2017-03-11 14:56:24:976 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 59ms
+INFO  2017-03-11 14:56:25:028 [busRouteFinder.RoutesWithStations] [main] - route exist in 11 - > 125 true found in 14ms
+INFO  2017-03-11 14:56:26:077 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 14:56:26:080 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes, 1 thread/s will be used for each search req.
+INFO  2017-03-11 14:56:26:081 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 5ms
+INFO  2017-03-11 14:56:26:082 [busRouteFinder.RoutesWithStations] [main] - route exist in 55 - > 244 false found in 1ms
+ERROR 2017-03-11 14:56:27:138 [busRouteFinder.RoutesWithStations] [main] - File has not expected lines of routes expected 7 exists 6
+INFO  2017-03-11 14:56:27:138 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 14:56:27:139 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 2ms
+INFO  2017-03-11 14:57:18:081 [busRouteFinder.RoutesWithStations] [main] - file has 10021 routes
+INFO  2017-03-11 14:57:18:231 [busRouteFinder.RoutesWithStations] [main] - file loaded with 10021 routes, 11 thread/s will be used for each search req.
+INFO  2017-03-11 14:57:18:231 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 215ms
+WARN  2017-03-11 14:57:18:280 [busRouteFinder.App] [main] - HTTP Already Stopped
+INFO  2017-03-11 14:57:21:936 [busRouteFinder.App] [Thread-1] - HTTP Service Started
+WARN  2017-03-11 14:57:59:981 [busRouteFinder.App] [main] - HTPP Stopped
+INFO  2017-03-11 14:58:23:955 [busRouteFinder.App] [main] - HTTP Service Started
+INFO  2017-03-11 14:58:28:378 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 12ms
+INFO  2017-03-11 14:58:34:486 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:46:542 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 33ms
+INFO  2017-03-11 14:58:46:560 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 36ms
+INFO  2017-03-11 14:58:46:564 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 33ms
+INFO  2017-03-11 14:58:46:610 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 37ms
+INFO  2017-03-11 14:58:46:610 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 26ms
+INFO  2017-03-11 14:58:46:634 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 62ms
+INFO  2017-03-11 14:58:46:635 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 40ms
+INFO  2017-03-11 14:58:46:638 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:46:665 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 13ms
+INFO  2017-03-11 14:58:46:683 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 76ms
+INFO  2017-03-11 14:58:46:710 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 86ms
+INFO  2017-03-11 14:58:46:888 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 176ms
+INFO  2017-03-11 14:58:46:892 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 231ms
+INFO  2017-03-11 14:58:46:909 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 216ms
+INFO  2017-03-11 14:58:46:916 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 16ms
+INFO  2017-03-11 14:58:46:938 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 246ms
+INFO  2017-03-11 14:58:46:939 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 250ms
+INFO  2017-03-11 14:58:46:941 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 37ms
+INFO  2017-03-11 14:58:46:944 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:46:989 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 58ms
+INFO  2017-03-11 14:58:47:000 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 65ms
+INFO  2017-03-11 14:58:47:016 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:47:027 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 47ms
+INFO  2017-03-11 14:58:47:041 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 63ms
+INFO  2017-03-11 14:58:47:053 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 79ms
+INFO  2017-03-11 14:58:47:080 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 24ms
+INFO  2017-03-11 14:58:47:082 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 27ms
+INFO  2017-03-11 14:58:47:104 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 26ms
+INFO  2017-03-11 14:58:47:104 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:47:125 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 27ms
+INFO  2017-03-11 14:58:47:127 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 26ms
+INFO  2017-03-11 14:58:47:167 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 76ms
+INFO  2017-03-11 14:58:47:187 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 100ms
+INFO  2017-03-11 14:58:47:206 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 8ms
+INFO  2017-03-11 14:58:47:215 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 94ms
+INFO  2017-03-11 14:58:47:227 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 19ms
+INFO  2017-03-11 14:58:47:238 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 76ms
+INFO  2017-03-11 14:58:47:259 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 8ms
+INFO  2017-03-11 14:58:47:284 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 23ms
+INFO  2017-03-11 14:58:47:301 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:47:307 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 52ms
+INFO  2017-03-11 14:58:47:339 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 19ms
+INFO  2017-03-11 14:58:47:351 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 56ms
+INFO  2017-03-11 14:58:47:363 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 78ms
+INFO  2017-03-11 14:58:47:365 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 86ms
+INFO  2017-03-11 14:58:47:379 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 78ms
+INFO  2017-03-11 14:58:47:399 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 45ms
+INFO  2017-03-11 14:58:47:403 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 70ms
+INFO  2017-03-11 14:58:47:430 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 47ms
+INFO  2017-03-11 14:58:47:475 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 91ms
+INFO  2017-03-11 14:58:47:476 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 44ms
+INFO  2017-03-11 14:58:47:477 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 102ms
+INFO  2017-03-11 14:58:47:491 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 68ms
+INFO  2017-03-11 14:58:47:492 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 61ms
+INFO  2017-03-11 14:58:47:509 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 66ms
+INFO  2017-03-11 14:58:47:538 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 25ms
+INFO  2017-03-11 14:58:47:545 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:47:568 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:47:596 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 61ms
+INFO  2017-03-11 14:58:47:611 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 61ms
+INFO  2017-03-11 14:58:47:614 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 54ms
+INFO  2017-03-11 14:58:47:615 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 54ms
+INFO  2017-03-11 14:58:47:647 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 59ms
+INFO  2017-03-11 14:58:47:660 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 52ms
+INFO  2017-03-11 14:58:47:700 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 42ms
+INFO  2017-03-11 14:58:47:706 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 31ms
+INFO  2017-03-11 14:58:47:714 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 52ms
+INFO  2017-03-11 14:58:47:734 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 48ms
+INFO  2017-03-11 14:58:47:738 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 50ms
+INFO  2017-03-11 14:58:47:740 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 53ms
+INFO  2017-03-11 14:58:47:756 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:47:768 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 32ms
+INFO  2017-03-11 14:58:47:768 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:47:770 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 38ms
+INFO  2017-03-11 14:58:47:773 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 22ms
+INFO  2017-03-11 14:58:47:799 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 47ms
+INFO  2017-03-11 14:58:47:801 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 19ms
+INFO  2017-03-11 14:58:47:802 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:47:814 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 19ms
+INFO  2017-03-11 14:58:47:815 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:47:829 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 20ms
+INFO  2017-03-11 14:58:47:840 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 29ms
+INFO  2017-03-11 14:58:47:844 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:47:858 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 13ms
+INFO  2017-03-11 14:58:47:863 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 14ms
+INFO  2017-03-11 14:58:47:880 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 65ms
+INFO  2017-03-11 14:58:47:881 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:47:882 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 23ms
+INFO  2017-03-11 14:58:47:882 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 53ms
+INFO  2017-03-11 14:58:47:897 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 19ms
+INFO  2017-03-11 14:58:47:911 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:47:918 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 10ms
+INFO  2017-03-11 14:58:47:920 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 24ms
+INFO  2017-03-11 14:58:47:932 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 58ms
+INFO  2017-03-11 14:58:47:941 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 45ms
+INFO  2017-03-11 14:58:47:947 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 16ms
+INFO  2017-03-11 14:58:47:953 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 57ms
+INFO  2017-03-11 14:58:47:957 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:47:972 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 50ms
+INFO  2017-03-11 14:58:47:972 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 20ms
+INFO  2017-03-11 14:58:47:973 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 8ms
+INFO  2017-03-11 14:58:47:989 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 45ms
+INFO  2017-03-11 14:58:47:995 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 26ms
+INFO  2017-03-11 14:58:48:003 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 18ms
+INFO  2017-03-11 14:58:48:013 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 48ms
+INFO  2017-03-11 14:58:48:014 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 27ms
+INFO  2017-03-11 14:58:48:032 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 6ms
+INFO  2017-03-11 14:58:48:035 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 44ms
+INFO  2017-03-11 14:58:48:049 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 48ms
+INFO  2017-03-11 14:58:48:051 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 25ms
+INFO  2017-03-11 14:58:48:057 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:48:058 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:48:077 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:48:084 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 37ms
+INFO  2017-03-11 14:58:48:087 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:48:106 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 42ms
+INFO  2017-03-11 14:58:48:119 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 48ms
+INFO  2017-03-11 14:58:48:125 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 29ms
+INFO  2017-03-11 14:58:48:131 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 23ms
+INFO  2017-03-11 14:58:48:142 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 48ms
+INFO  2017-03-11 14:58:48:144 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 77ms
+INFO  2017-03-11 14:58:48:147 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 29ms
+INFO  2017-03-11 14:58:48:149 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:48:176 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 22ms
+INFO  2017-03-11 14:58:48:199 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:48:199 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 27ms
+INFO  2017-03-11 14:58:48:207 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 71ms
+INFO  2017-03-11 14:58:48:211 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 69ms
+INFO  2017-03-11 14:58:48:219 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 25ms
+INFO  2017-03-11 14:58:48:229 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 13ms
+INFO  2017-03-11 14:58:48:237 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 18ms
+INFO  2017-03-11 14:58:48:238 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 76ms
+INFO  2017-03-11 14:58:48:265 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:48:267 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 13ms
+INFO  2017-03-11 14:58:48:267 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 9ms
+INFO  2017-03-11 14:58:48:275 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 52ms
+INFO  2017-03-11 14:58:48:277 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 44ms
+INFO  2017-03-11 14:58:48:295 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 5ms
+INFO  2017-03-11 14:58:48:297 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 38ms
+INFO  2017-03-11 14:58:48:306 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 25ms
+INFO  2017-03-11 14:58:48:313 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 35ms
+INFO  2017-03-11 14:58:48:324 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 31ms
+INFO  2017-03-11 14:58:48:325 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 31ms
+ERROR 2017-03-11 14:58:48:332 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:346 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 40ms
+ERROR 2017-03-11 14:58:48:348 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:348 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:359 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:363 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:367 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 60ms
+INFO  2017-03-11 14:58:48:370 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 51ms
+INFO  2017-03-11 14:58:48:372 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 36ms
+ERROR 2017-03-11 14:58:48:387 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:399 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:399 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:409 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:409 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:420 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:424 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 41ms
+INFO  2017-03-11 14:58:48:430 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 46ms
+ERROR 2017-03-11 14:58:48:441 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:442 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 19ms
+INFO  2017-03-11 14:58:48:442 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 62ms
+INFO  2017-03-11 14:58:48:451 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 96ms
+INFO  2017-03-11 14:58:48:454 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 21ms
+ERROR 2017-03-11 14:58:48:462 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:462 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:464 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:469 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 34ms
+ERROR 2017-03-11 14:58:48:475 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:476 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:485 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:485 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:486 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:488 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:500 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:501 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:504 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:515 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:516 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:518 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:519 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:535 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:535 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:536 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 79ms
+INFO  2017-03-11 14:58:48:545 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 15ms
+ERROR 2017-03-11 14:58:48:556 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:559 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 44ms
+INFO  2017-03-11 14:58:48:568 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 14ms
+INFO  2017-03-11 14:58:48:570 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 18ms
+ERROR 2017-03-11 14:58:48:571 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:572 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 34ms
+ERROR 2017-03-11 14:58:48:581 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:583 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:585 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:595 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:595 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:596 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:606 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:607 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 41ms
+ERROR 2017-03-11 14:58:48:607 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:617 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:617 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:618 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 26ms
+ERROR 2017-03-11 14:58:48:627 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:630 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:638 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:640 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:642 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:651 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:651 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:662 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:48:672 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:679 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 112ms
+INFO  2017-03-11 14:58:48:680 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 20ms
+INFO  2017-03-11 14:58:48:684 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 76ms
+ERROR 2017-03-11 14:58:48:696 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:48:722 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 59ms
+INFO  2017-03-11 14:58:48:734 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 56ms
+INFO  2017-03-11 14:58:48:757 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 65ms
+INFO  2017-03-11 14:58:48:760 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 13ms
+INFO  2017-03-11 14:58:48:763 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 68ms
+INFO  2017-03-11 14:58:48:767 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 23ms
+INFO  2017-03-11 14:58:48:803 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 53ms
+INFO  2017-03-11 14:58:48:808 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:48:809 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 115ms
+INFO  2017-03-11 14:58:48:809 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 29ms
+INFO  2017-03-11 14:58:48:839 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 57ms
+INFO  2017-03-11 14:58:48:840 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 62ms
+INFO  2017-03-11 14:58:48:853 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 29ms
+INFO  2017-03-11 14:58:48:870 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 11ms
+INFO  2017-03-11 14:58:48:871 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 17ms
+INFO  2017-03-11 14:58:48:876 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 17ms
+INFO  2017-03-11 14:58:48:876 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 23ms
+INFO  2017-03-11 14:58:48:904 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 76ms
+INFO  2017-03-11 14:58:48:905 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 25ms
+INFO  2017-03-11 14:58:48:907 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 43ms
+INFO  2017-03-11 14:58:48:908 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 14ms
+INFO  2017-03-11 14:58:48:939 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:48:939 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 24ms
+INFO  2017-03-11 14:58:48:940 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 42ms
+INFO  2017-03-11 14:58:48:947 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:48:988 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 53ms
+INFO  2017-03-11 14:58:49:009 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 29ms
+INFO  2017-03-11 14:58:49:011 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 75ms
+INFO  2017-03-11 14:58:49:017 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 45ms
+INFO  2017-03-11 14:58:49:052 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 69ms
+INFO  2017-03-11 14:58:49:055 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 22ms
+INFO  2017-03-11 14:58:49:067 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:49:118 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 77ms
+INFO  2017-03-11 14:58:49:131 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 92ms
+INFO  2017-03-11 14:58:49:155 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 173ms
+INFO  2017-03-11 14:58:49:161 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 85ms
+INFO  2017-03-11 14:58:49:163 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 98ms
+INFO  2017-03-11 14:58:49:199 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 54ms
+INFO  2017-03-11 14:58:49:223 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 142ms
+INFO  2017-03-11 14:58:49:286 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 63ms
+INFO  2017-03-11 14:58:49:286 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 109ms
+INFO  2017-03-11 14:58:49:288 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 131ms
+INFO  2017-03-11 14:58:49:309 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 107ms
+INFO  2017-03-11 14:58:49:322 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 134ms
+INFO  2017-03-11 14:58:49:326 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:49:326 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 94ms
+INFO  2017-03-11 14:58:49:340 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 43ms
+INFO  2017-03-11 14:58:49:351 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:49:361 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:49:371 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 47ms
+INFO  2017-03-11 14:58:49:378 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 40ms
+INFO  2017-03-11 14:58:49:396 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 40ms
+INFO  2017-03-11 14:58:49:397 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 45ms
+INFO  2017-03-11 14:58:49:402 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:49:404 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 41ms
+INFO  2017-03-11 14:58:49:452 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 45ms
+INFO  2017-03-11 14:58:49:471 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 81ms
+INFO  2017-03-11 14:58:49:472 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 79ms
+INFO  2017-03-11 14:58:49:484 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:49:490 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 59ms
+INFO  2017-03-11 14:58:49:494 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:49:507 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 65ms
+INFO  2017-03-11 14:58:49:537 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 33ms
+INFO  2017-03-11 14:58:49:539 [busRouteFinder.RoutesWithStations] [qtp1808050533-142] - route exist in 55 - > 245 true found in 23ms
+INFO  2017-03-11 14:58:49:546 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 24ms
+INFO  2017-03-11 14:58:49:549 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 26ms
+INFO  2017-03-11 14:58:49:565 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 35ms
+INFO  2017-03-11 14:58:49:569 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 38ms
+INFO  2017-03-11 14:58:49:597 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 27ms
+INFO  2017-03-11 14:58:49:604 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 37ms
+INFO  2017-03-11 14:58:49:614 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:49:624 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:49:625 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 35ms
+INFO  2017-03-11 14:58:49:660 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 70ms
+INFO  2017-03-11 14:58:49:677 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 70ms
+INFO  2017-03-11 14:58:49:678 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 65ms
+INFO  2017-03-11 14:58:49:684 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 40ms
+INFO  2017-03-11 14:58:49:689 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 18ms
+INFO  2017-03-11 14:58:49:700 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:49:713 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 84ms
+INFO  2017-03-11 14:58:49:742 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 24ms
+INFO  2017-03-11 14:58:49:753 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 50ms
+INFO  2017-03-11 14:58:49:761 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 24ms
+INFO  2017-03-11 14:58:49:773 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 23ms
+INFO  2017-03-11 14:58:49:775 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:49:779 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 46ms
+INFO  2017-03-11 14:58:49:780 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 47ms
+INFO  2017-03-11 14:58:49:793 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 27ms
+INFO  2017-03-11 14:58:49:812 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 24ms
+INFO  2017-03-11 14:58:49:828 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 38ms
+INFO  2017-03-11 14:58:49:838 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 40ms
+INFO  2017-03-11 14:58:49:839 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:49:847 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 51ms
+INFO  2017-03-11 14:58:49:854 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 23ms
+INFO  2017-03-11 14:58:49:882 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 71ms
+INFO  2017-03-11 14:58:49:886 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:49:894 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 43ms
+INFO  2017-03-11 14:58:49:908 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 44ms
+INFO  2017-03-11 14:58:49:934 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 83ms
+INFO  2017-03-11 14:58:49:948 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 53ms
+INFO  2017-03-11 14:58:49:952 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 35ms
+INFO  2017-03-11 14:58:49:980 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 108ms
+INFO  2017-03-11 14:58:49:985 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:50:002 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 53ms
+INFO  2017-03-11 14:58:50:023 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 105ms
+INFO  2017-03-11 14:58:50:025 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 120ms
+INFO  2017-03-11 14:58:50:038 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 22ms
+INFO  2017-03-11 14:58:50:058 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 78ms
+INFO  2017-03-11 14:58:50:086 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 50ms
+INFO  2017-03-11 14:58:50:106 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 108ms
+INFO  2017-03-11 14:58:50:117 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 19ms
+INFO  2017-03-11 14:58:50:135 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 62ms
+INFO  2017-03-11 14:58:50:135 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 58ms
+INFO  2017-03-11 14:58:50:137 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 61ms
+INFO  2017-03-11 14:58:50:137 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:50:159 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 32ms
+INFO  2017-03-11 14:58:50:176 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 188ms
+INFO  2017-03-11 14:58:50:191 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 41ms
+INFO  2017-03-11 14:58:50:201 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:50:216 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 35ms
+INFO  2017-03-11 14:58:50:219 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 16ms
+INFO  2017-03-11 14:58:50:225 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:50:228 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 25ms
+INFO  2017-03-11 14:58:50:232 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 18ms
+INFO  2017-03-11 14:58:50:237 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:50:265 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 37ms
+INFO  2017-03-11 14:58:50:270 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:50:271 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:50:273 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 44ms
+INFO  2017-03-11 14:58:50:312 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:50:322 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 74ms
+INFO  2017-03-11 14:58:50:338 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 58ms
+INFO  2017-03-11 14:58:50:342 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 58ms
+INFO  2017-03-11 14:58:50:352 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 47ms
+INFO  2017-03-11 14:58:50:378 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 46ms
+INFO  2017-03-11 14:58:50:385 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 29ms
+INFO  2017-03-11 14:58:50:389 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 84ms
+INFO  2017-03-11 14:58:50:401 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 70ms
+INFO  2017-03-11 14:58:50:404 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 23ms
+INFO  2017-03-11 14:58:50:407 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:50:410 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 12ms
+INFO  2017-03-11 14:58:50:418 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 36ms
+INFO  2017-03-11 14:58:50:435 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 23ms
+INFO  2017-03-11 14:58:50:451 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:50:453 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 32ms
+INFO  2017-03-11 14:58:50:469 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 26ms
+INFO  2017-03-11 14:58:50:482 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:50:496 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 17ms
+INFO  2017-03-11 14:58:50:505 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:50:506 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 61ms
+INFO  2017-03-11 14:58:50:520 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 75ms
+INFO  2017-03-11 14:58:50:524 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 57ms
+INFO  2017-03-11 14:58:50:531 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 40ms
+INFO  2017-03-11 14:58:50:550 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 36ms
+INFO  2017-03-11 14:58:50:565 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 43ms
+INFO  2017-03-11 14:58:50:566 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 52ms
+INFO  2017-03-11 14:58:50:590 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 34ms
+INFO  2017-03-11 14:58:50:592 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 37ms
+INFO  2017-03-11 14:58:50:605 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:50:609 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 54ms
+INFO  2017-03-11 14:58:50:616 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 52ms
+INFO  2017-03-11 14:58:50:633 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:50:639 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 48ms
+INFO  2017-03-11 14:58:50:669 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 50ms
+INFO  2017-03-11 14:58:50:675 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 45ms
+INFO  2017-03-11 14:58:50:676 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 42ms
+INFO  2017-03-11 14:58:50:678 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 48ms
+INFO  2017-03-11 14:58:50:689 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:50:706 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 43ms
+INFO  2017-03-11 14:58:50:728 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 24ms
+INFO  2017-03-11 14:58:50:742 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 44ms
+INFO  2017-03-11 14:58:50:745 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 24ms
+INFO  2017-03-11 14:58:50:746 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 24ms
+INFO  2017-03-11 14:58:50:748 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 25ms
+INFO  2017-03-11 14:58:50:749 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 9ms
+INFO  2017-03-11 14:58:50:750 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 52ms
+INFO  2017-03-11 14:58:50:782 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 11ms
+INFO  2017-03-11 14:58:50:787 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:50:801 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 47ms
+INFO  2017-03-11 14:58:50:817 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:50:822 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 51ms
+INFO  2017-03-11 14:58:50:825 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 33ms
+INFO  2017-03-11 14:58:50:829 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 31ms
+INFO  2017-03-11 14:58:50:835 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 66ms
+INFO  2017-03-11 14:58:50:853 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 40ms
+INFO  2017-03-11 14:58:50:863 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 25ms
+INFO  2017-03-11 14:58:50:863 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 35ms
+INFO  2017-03-11 14:58:50:891 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 12ms
+INFO  2017-03-11 14:58:50:892 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 8ms
+INFO  2017-03-11 14:58:50:913 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 48ms
+INFO  2017-03-11 14:58:50:916 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 63ms
+INFO  2017-03-11 14:58:50:917 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 63ms
+INFO  2017-03-11 14:58:50:918 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 60ms
+INFO  2017-03-11 14:58:50:931 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 22ms
+INFO  2017-03-11 14:58:50:938 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:50:941 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 13ms
+INFO  2017-03-11 14:58:50:958 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:50:966 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 26ms
+INFO  2017-03-11 14:58:50:975 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 32ms
+INFO  2017-03-11 14:58:50:976 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 31ms
+INFO  2017-03-11 14:58:50:992 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:50:996 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 42ms
+INFO  2017-03-11 14:58:51:004 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:51:004 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 33ms
+INFO  2017-03-11 14:58:51:006 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 19ms
+ERROR 2017-03-11 14:58:51:014 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:016 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 28ms
+ERROR 2017-03-11 14:58:51:024 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:027 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:033 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 22ms
+INFO  2017-03-11 14:58:51:035 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 34ms
+ERROR 2017-03-11 14:58:51:043 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:044 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:053 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:056 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:056 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:064 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:064 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 50ms
+ERROR 2017-03-11 14:58:51:065 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:065 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:076 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 34ms
+ERROR 2017-03-11 14:58:51:085 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:087 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:088 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 71ms
+ERROR 2017-03-11 14:58:51:096 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:097 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:51:097 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 20ms
+INFO  2017-03-11 14:58:51:098 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 18ms
+ERROR 2017-03-11 14:58:51:101 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:109 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:110 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:111 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:113 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:117 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:126 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:141 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:142 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:143 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:154 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:161 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 26ms
+ERROR 2017-03-11 14:58:51:182 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:189 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 89ms
+INFO  2017-03-11 14:58:51:190 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 67ms
+INFO  2017-03-11 14:58:51:195 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 44ms
+ERROR 2017-03-11 14:58:51:213 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:221 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 40ms
+INFO  2017-03-11 14:58:51:225 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 43ms
+INFO  2017-03-11 14:58:51:241 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 37ms
+INFO  2017-03-11 14:58:51:261 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:51:262 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 54ms
+INFO  2017-03-11 14:58:51:262 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 26ms
+INFO  2017-03-11 14:58:51:262 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 52ms
+INFO  2017-03-11 14:58:51:299 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:51:300 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 50ms
+INFO  2017-03-11 14:58:51:305 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 16ms
+INFO  2017-03-11 14:58:51:307 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 17ms
+INFO  2017-03-11 14:58:51:333 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 47ms
+INFO  2017-03-11 14:58:51:333 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 47ms
+INFO  2017-03-11 14:58:51:352 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 32ms
+INFO  2017-03-11 14:58:51:373 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:51:376 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 13ms
+INFO  2017-03-11 14:58:51:381 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:51:389 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 29ms
+INFO  2017-03-11 14:58:51:398 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 63ms
+INFO  2017-03-11 14:58:51:427 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 42ms
+INFO  2017-03-11 14:58:51:429 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 38ms
+INFO  2017-03-11 14:58:51:431 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:51:432 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:51:438 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 16ms
+INFO  2017-03-11 14:58:51:451 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 96ms
+INFO  2017-03-11 14:58:51:458 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 14ms
+INFO  2017-03-11 14:58:51:474 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:51:475 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 20ms
+INFO  2017-03-11 14:58:51:488 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:51:490 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 22ms
+INFO  2017-03-11 14:58:51:494 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 33ms
+ERROR 2017-03-11 14:58:51:512 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:513 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:528 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 45ms
+INFO  2017-03-11 14:58:51:529 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 57ms
+INFO  2017-03-11 14:58:51:540 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 28ms
+ERROR 2017-03-11 14:58:51:545 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:51:550 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:560 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 75ms
+INFO  2017-03-11 14:58:51:564 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 20ms
+INFO  2017-03-11 14:58:51:584 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 40ms
+INFO  2017-03-11 14:58:51:591 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 33ms
+INFO  2017-03-11 14:58:51:611 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 55ms
+INFO  2017-03-11 14:58:51:614 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:51:617 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 73ms
+ERROR 2017-03-11 14:58:51:628 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:646 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 72ms
+INFO  2017-03-11 14:58:51:649 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 24ms
+INFO  2017-03-11 14:58:51:667 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:51:677 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 108ms
+INFO  2017-03-11 14:58:51:680 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 74ms
+INFO  2017-03-11 14:58:51:682 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 54ms
+ERROR 2017-03-11 14:58:51:692 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:51:706 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 45ms
+INFO  2017-03-11 14:58:51:725 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 34ms
+INFO  2017-03-11 14:58:51:732 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 31ms
+INFO  2017-03-11 14:58:51:740 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:51:741 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 9ms
+INFO  2017-03-11 14:58:51:745 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 9ms
+INFO  2017-03-11 14:58:51:771 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 94ms
+INFO  2017-03-11 14:58:51:783 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 118ms
+INFO  2017-03-11 14:58:51:797 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 18ms
+INFO  2017-03-11 14:58:51:802 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:51:833 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 84ms
+INFO  2017-03-11 14:58:51:838 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 76ms
+INFO  2017-03-11 14:58:51:840 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 89ms
+INFO  2017-03-11 14:58:51:841 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:51:858 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 29ms
+INFO  2017-03-11 14:58:51:873 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:51:878 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 11ms
+INFO  2017-03-11 14:58:51:881 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 29ms
+INFO  2017-03-11 14:58:51:888 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 12ms
+INFO  2017-03-11 14:58:51:902 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 26ms
+INFO  2017-03-11 14:58:51:904 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 8ms
+INFO  2017-03-11 14:58:51:919 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 125ms
+INFO  2017-03-11 14:58:51:923 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 41ms
+INFO  2017-03-11 14:58:51:936 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 37ms
+INFO  2017-03-11 14:58:51:954 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 11ms
+INFO  2017-03-11 14:58:51:955 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 28ms
+INFO  2017-03-11 14:58:51:955 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 43ms
+INFO  2017-03-11 14:58:51:968 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:51:968 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 56ms
+INFO  2017-03-11 14:58:51:979 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 82ms
+INFO  2017-03-11 14:58:51:982 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 18ms
+INFO  2017-03-11 14:58:51:983 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 18ms
+INFO  2017-03-11 14:58:51:994 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 18ms
+INFO  2017-03-11 14:58:52:012 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 21ms
+INFO  2017-03-11 14:58:52:017 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 40ms
+INFO  2017-03-11 14:58:52:019 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 13ms
+INFO  2017-03-11 14:58:52:026 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 48ms
+INFO  2017-03-11 14:58:52:045 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 22ms
+INFO  2017-03-11 14:58:52:050 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 44ms
+INFO  2017-03-11 14:58:52:051 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 60ms
+INFO  2017-03-11 14:58:52:053 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 17ms
+INFO  2017-03-11 14:58:52:064 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 22ms
+INFO  2017-03-11 14:58:52:090 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 22ms
+INFO  2017-03-11 14:58:52:092 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 30ms
+INFO  2017-03-11 14:58:52:097 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 22ms
+ERROR 2017-03-11 14:58:52:106 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:52:111 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 29ms
+ERROR 2017-03-11 14:58:52:116 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - TPS Exceeded returning FALSE
+ERROR 2017-03-11 14:58:52:134 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:52:137 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 94ms
+INFO  2017-03-11 14:58:52:148 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 46ms
+INFO  2017-03-11 14:58:52:149 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 17ms
+INFO  2017-03-11 14:58:52:150 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 46ms
+ERROR 2017-03-11 14:58:52:172 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:52:175 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 19ms
+ERROR 2017-03-11 14:58:52:176 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - TPS Exceeded returning FALSE
+INFO  2017-03-11 14:58:52:221 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 51ms
+INFO  2017-03-11 14:58:52:221 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 38ms
+INFO  2017-03-11 14:58:52:231 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 36ms
+INFO  2017-03-11 14:58:52:253 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 185ms
+INFO  2017-03-11 14:58:52:255 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 41ms
+INFO  2017-03-11 14:58:52:280 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 68ms
+INFO  2017-03-11 14:58:52:316 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 73ms
+INFO  2017-03-11 14:58:52:316 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:52:325 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 49ms
+INFO  2017-03-11 14:58:52:337 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 14ms
+INFO  2017-03-11 14:58:52:339 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 14ms
+INFO  2017-03-11 14:58:52:348 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 105ms
+INFO  2017-03-11 14:58:52:366 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 123ms
+INFO  2017-03-11 14:58:52:368 [busRouteFinder.RoutesWithStations] [qtp1808050533-32] - route exist in 55 - > 245 true found in 9ms
+INFO  2017-03-11 14:58:52:372 [busRouteFinder.RoutesWithStations] [qtp1808050533-33] - route exist in 55 - > 245 true found in 39ms
+INFO  2017-03-11 14:58:52:392 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 77ms
+INFO  2017-03-11 14:58:52:421 [busRouteFinder.RoutesWithStations] [qtp1808050533-167] - route exist in 55 - > 245 true found in 75ms
+INFO  2017-03-11 14:58:52:424 [busRouteFinder.RoutesWithStations] [qtp1808050533-166] - route exist in 55 - > 245 true found in 36ms
+INFO  2017-03-11 14:58:52:444 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 69ms
+INFO  2017-03-11 14:58:52:446 [busRouteFinder.RoutesWithStations] [qtp1808050533-36] - route exist in 55 - > 245 true found in 98ms
+INFO  2017-03-11 14:58:52:455 [busRouteFinder.RoutesWithStations] [qtp1808050533-83] - route exist in 55 - > 245 true found in 15ms
+INFO  2017-03-11 14:58:52:464 [busRouteFinder.RoutesWithStations] [qtp1808050533-127] - route exist in 55 - > 245 true found in 34ms
+INFO  2017-03-11 14:58:52:471 [busRouteFinder.RoutesWithStations] [qtp1808050533-34] - route exist in 55 - > 245 true found in 59ms
+INFO  2017-03-11 14:58:52:477 [busRouteFinder.RoutesWithStations] [qtp1808050533-96] - route exist in 55 - > 245 true found in 78ms
+INFO  2017-03-11 14:58:52:479 [busRouteFinder.RoutesWithStations] [qtp1808050533-168] - route exist in 55 - > 245 true found in 16ms
+INFO  2017-03-11 14:58:52:488 [busRouteFinder.RoutesWithStations] [qtp1808050533-169] - route exist in 55 - > 245 true found in 17ms
+WARN  2017-03-11 15:02:36:165 [busRouteFinder.App] [main] - Unknown or stop command: stop
+ERROR 2017-03-11 15:02:36:165 [busRouteFinder.Utility] [main] - Goodbye ...
+INFO  2017-03-11 15:02:56:452 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 15:02:56:474 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes, 1 thread/s will be used for each search req.
+INFO  2017-03-11 15:02:56:475 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 62ms
+INFO  2017-03-11 15:02:56:526 [busRouteFinder.RoutesWithStations] [main] - route exist in 11 - > 125 true found in 16ms
+INFO  2017-03-11 15:02:57:570 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 15:02:57:572 [busRouteFinder.RoutesWithStations] [main] - file loaded with 7 routes, 1 thread/s will be used for each search req.
+INFO  2017-03-11 15:02:57:572 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 3ms
+INFO  2017-03-11 15:02:57:573 [busRouteFinder.RoutesWithStations] [main] - route exist in 55 - > 244 false found in 1ms
+ERROR 2017-03-11 15:02:58:598 [busRouteFinder.RoutesWithStations] [main] - File has not expected lines of routes expected 7 exists 6
+INFO  2017-03-11 15:02:58:598 [busRouteFinder.RoutesWithStations] [main] - file has 7 routes
+INFO  2017-03-11 15:02:58:599 [busRouteFinder.RoutesWithStations] [main] - Elapsed Time to read the file 1ms

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration xmlns="http://logging.apache.org/log4j/2.0/config">
+    <Appenders>
+        <RollingRandomAccessFile name="FILE" fileName="logfile.log" filePattern="archive/logs/logfile.log.%d{yyyy-MM-dd}.gz" append="true">
+            <PatternLayout pattern="%-5p %d{yyyy-MM-dd HH:mm:ss:SSS} [%c{2}] [%t] - %m%n"/>
+			    <Policies>
+        <SizeBasedTriggeringPolicy size="250 MB"/>
+		<TimeBasedTriggeringPolicy interval="1" modulate="true" />
+    </Policies>
+    <DefaultRolloverStrategy max="30"/>
+        </RollingRandomAccessFile>
+        <Console name="STDOUT" target="SYSTEM_OUT">
+            <PatternLayout pattern="%-5p %d{yyyy-MM-dd HH:mm:ss:SSS} [%c{2}] [%t] - %m%n"/>
+        </Console>
+    </Appenders>
+
+    <Loggers>
+        <AsyncLogger name="org.gokhanka.busprovider.busRouteFinder" level="info" additivity="false">
+		<AppenderRef ref="FILE"/>
+		</AsyncLogger>
+		<AsyncLogger name="org.gokhanka.busprovider.busRouteFinder.RoutesWithStations" level="info" additivity="false">
+			<AppenderRef ref="FILE"/>
+		</AsyncLogger>
+        <Root level="info" additivity="false">
+            <AppenderRef ref="FILE"/>           
+        </Root>
+    </Loggers>
+
+</Configuration>
